@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sarath Chandrika!
 
-💻 **Senior Data Engineer** | 🛠️ Cloud-Native Pipelines | 🌩️ GCP & AWS | ⚡ Real-Time Streaming
+💻 **Data Engineer** | 🛠️ System Design | 🌩️ GCP & AWS | ⚡Batch and Real-Time Streaming
 
 ---
 
@@ -18,6 +18,87 @@ I specialize in transforming raw data into powerful insights through **streaming
 - Optimize ETL performance with **Airflow, dbt, PySpark, and SQL**
 - Build **event-driven, cost-efficient architectures** on **AWS & GCP**
 - Develop insightful dashboards using **Power BI, Looker Studio**, and enable **self-service analytics**
+
+---
+
+## ♦️ Skills 💻
+
+### 👩‍💻 Programming & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  
+![PySpark](https://img.shields.io/badge/-PySpark-FDEE21?logo=apachespark&logoColor=black&style=flat)  
+💻 Shell Scripting
+
+---
+
+### ⚡ Big Data & Stream Processing
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)  
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)  
+![Apache Beam](https://img.shields.io/badge/-Apache%20Beam-F37626?logo=apache&logoColor=white&style=flat)  
+🐝 Apache Hive
+
+---
+
+### 🔄 ETL & Orchestration
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-232F3E?logo=amazonaws&logoColor=white&style=flat)  
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white&style=flat)  
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat)  
+🔁 AWS Step Functions
+
+---
+
+### ☁️ Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)  
+![Amazon AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
+
+- **GCP:** BigQuery • Cloud Functions • Pub/Sub • GCS • Dataflow  
+- **AWS:** Redshift • S3 • Glue • Athena
+
+---
+
+### 🛢️ Data Warehousing & Storage
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=googlecloud&logoColor=white&style=flat)  
+![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?logo=snowflake&logoColor=white&style=flat)  
+![Redshift](https://img.shields.io/badge/-Redshift-8C8C8C?logo=amazonredshift&logoColor=white&style=flat)  
+🧩 MySQL • Oracle • PostgreSQL
+
+---
+
+### 🧱 Data Lake & Pipeline Architecture
+🟫 Bronze/Silver/Gold Architecture • 🔼 Delta Lake  
+🏛️ Data Vault • 🔄 CDC (Change Data Capture)
+
+---
+
+### 🧪 Data Quality & Observability
+![Great Expectations](https://img.shields.io/badge/-Great%20Expectations-2C3E50?logo=python&logoColor=white&style=flat)  
+📚 Data Catalog • 📈 Stackdriver • 🔍 Datadog • 📊 Looker Studio
+
+---
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)  
+![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=flat)  
+📉 Tableau
+
+---
+
+### ⚙️ DevOps & Deployment
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
+![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=flat)  
+![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=flat)  
+🔧 Maven • Terraform (basic)
+
+---
+
+### 🛠️ Tools & IDEs
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)  
+🗂️ GitHub • Jira • Confluence
+
+
 
 ---
 
@@ -40,7 +121,8 @@ I specialize in transforming raw data into powerful insights through **streaming
 
 - 📧 Email: [sarathk8901@gmail.com](mailto:sarathk8901@gmail.com)  
 - 🔗 [LinkedIn](www.linkedin.com/in/sarath-k14)  
-- 🌐 [Portfolio](https://sarathk1497.github.io/sarathchandrikak.github.io/) 
+- 🌐 [Portfolio](https://sarathk1497.github.io/sarathchandrikak.github.io/)
+- 
 
 ---
 
