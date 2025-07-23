@@ -38,9 +38,9 @@ I specialize in transforming raw data into powerful insights through **streaming
 
 📫 **Let's Connect**
 
-- 📧 Email: [chandrikakaravadi@gmail.com](mailto:chandrikakaravadi@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chandrikakaravadi)  
-- 🌐 [Portfolio](https://YOUR_GITHUB_USERNAME.github.io) *(if available)*
+- 📧 Email: [sarathk8901@gmail.com](mailto:sarathk8901@gmail.com)  
+- 🔗 [LinkedIn](www.linkedin.com/in/sarath-k14)  
+- 🌐 [Portfolio](https://sarathk1497.github.io/sarathchandrikak.github.io/) 
 
 ---
 
