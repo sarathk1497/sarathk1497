@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Chandrika!
+# 👋 Hi there, I'm Sarath Chandrika!
 
 💻 **Senior Data Engineer** | 🛠️ Cloud-Native Pipelines | 🌩️ GCP & AWS | ⚡ Real-Time Streaming
 
