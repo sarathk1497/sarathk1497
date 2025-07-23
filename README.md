@@ -31,6 +31,7 @@ I specialize in transforming raw data into powerful insights through **streaming
 
 ### ☁️ Cloud Services  
 **🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 📣 SNS • 🧪 Glue • 🏢 Redshift 
+
 **🌐 Google Cloud Platform (GCP):** 🪣 GCS • 📊 BigQuery • 🔁 Dataflow
 
 ### 🧰 Tools & IDEs  
