@@ -30,8 +30,8 @@ I specialize in transforming raw data into powerful insights through **streaming
 * 📬 Apache Kafka • 🛠️ Workflow Orchestration using Airflow
 
 ### ☁️ Cloud Services
+**🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 🧪 Glue 
 **🌐 Google Cloud Platform (GCP):** 🪣 GCS • 📊 BigQuery • 🔁 Dataflow • 📈 Looker Studio
-**🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 📣 SNS • 🧪 Glue • 🏢 Redshift&#x20;
 
 ### 🧰 Tools & IDEs
 * 🧑‍💻 Git  • 💻 VS Code&#x20;
