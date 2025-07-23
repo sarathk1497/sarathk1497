@@ -20,23 +20,21 @@ I specialize in transforming raw data into powerful insights through **streaming
 - Develop insightful dashboards using **Power BI, Looker Studio**, and enable **self-service analytics**
 
 ---
-
 ## 🎯 Core Expertise
 
-### ▶️ Programming & Design  
-- 🐍 Python • ⚡ PySpark • 🧮 SQL • 🧱 OOP Design and system Design Principles • 🏗️ End-to-End Data Engineering Architecture 
+### 🚀 Programming & Design
+* 🐍 Python • ⚡ PySpark • 🧠 SQL • 🧱 OOP Principles • 🏗️ System Design&#x20;
 
-### ▶️ Data Engineering & Pipelines  
-- 📐 Data Modeling • 🔄 ETL • ⏱️ Batch & Real-Time Streaming Pipelines  
-- 📡 Apache Kafka • ⏳ Workflow Orchestration with Apache Airflow
+### 💡 Data Engineering & Pipelines
+* 🗂️ Data Modeling • 🔄 ETL • ⏱️ Batch & 🔃 Real-Time Streaming
+* 📬 Apache Kafka • 🛠️ Workflow Orchestration using Airflow
 
-### ▶️ ☁️ Cloud Services  
-**Amazon Web Services (AWS):** 🪣 S3 • 🔁 Lambda •🧪 Glue • 🏢 Redshift 
-**Google Cloud Platform (GCP):** ☁️ GCS • 📊 BigQuery • 🔁 Dataflow  
+### ☁️ Cloud Services
+**🌐 Google Cloud Platform (GCP):** 🪣 GCS • 📊 BigQuery • 🔁 Dataflow • 📈 Looker Studio
+**🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 📣 SNS • 🧪 Glue • 🏢 Redshift&#x20;
 
-
-### ▶️ 🧰 Tools & IDEs  
-- 🧑‍💻 Git  • VS Code 
+### 🧰 Tools & IDEs
+* 🧑‍💻 Git  • 💻 VS Code&#x20;
 
 
 ---
