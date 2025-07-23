@@ -31,7 +31,6 @@ I specialize in transforming raw data into powerful insights through **streaming
 
 ### ☁️ Cloud Services  
 **🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 📣 SNS • 🧪 Glue • 🏢 Redshift 
-
 **🌐 Google Cloud Platform (GCP):** 🪣 GCS • 📊 BigQuery • 🔁 Dataflow
 
 ### 🧰 Tools & IDEs  
@@ -60,7 +59,7 @@ I specialize in transforming raw data into powerful insights through **streaming
 - 📧 Email: [sarathk8901@gmail.com](mailto:sarathk8901@gmail.com)  
 - 🔗 [LinkedIn](www.linkedin.com/in/sarath-k14)  
 - 🌐 [Portfolio](https://sarathk1497.github.io/sarathchandrikak.github.io/)
-- 
+- 💻 [LeetCode](https://leetcode.com/u/Sarath_97/)  
 
 ---
 
