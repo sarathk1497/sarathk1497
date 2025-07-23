@@ -1,43 +1,57 @@
-♦️ Intro
+# 👋 Hi there, I'm Chandrika!
 
-Hi Techies! 👋🌱 I'm a Data Engineer with over 7 years of professional experience.I specialize in Python, PySpark, SQL, AWS, GCP, Kafka, OOPS, and Data Engineering System Design.I currently serve as Senior Data Engineer at Hartford Financial Services Group.
+💻 **Senior Data Engineer** | 🛠️ Cloud-Native Pipelines | 🌩️ GCP & AWS | ⚡ Real-Time Streaming
 
-🌱 My professional work includes developing:
+---
 
-▶️ Real-time Financial Transaction Data Pipeline & Anomaly DetectionBuilt a robust real-time pipeline using Apache Spark, Kafka, and AWS Glue to ingest and process financial transactions.Integrated fraud detection logic, reducing anomaly detection time from 24 hours to under 30 minutes.Delivered interactive Power BI dashboards while ensuring compliance with SOX and GDPR.
+🔍 **About Me**
 
-🌱 I am well-versed in:
+I'm a passionate and results-driven **Senior Data Engineer** with **6+ years of experience** designing and implementing large-scale, cloud-native data solutions across finance, retail, and tech sectors.  
+I specialize in transforming raw data into powerful insights through **streaming pipelines**, **data lake architectures**, and **cloud platform engineering**.
 
-Python, PySpark, SQL, OOPS, Data Engineering System Design
+---
 
-Data Modelling, ETL, Batch & Streaming Pipelines, Kafka, Airflow
+🚀 **What I Do**
 
-Cloud Services:
+- Architect **real-time fraud detection pipelines** using **Kafka, Spark, Glue, and S3**
+- Lead **data migration** projects from legacy systems (MySQL, Oracle, Teradata, SAS) to **modern cloud platforms** (BigQuery, Athena, Redshift)
+- Optimize ETL performance with **Airflow, dbt, PySpark, and SQL**
+- Build **event-driven, cost-efficient architectures** on **AWS & GCP**
+- Develop insightful dashboards using **Power BI, Looker Studio**, and enable **self-service analytics**
 
-GCP: GCS, BigQuery, Dataflow, Looker Studio
+---
 
-AWS: S3, Lambda, SNS, Glue, Redshift, RDS, Athena
+📂 **Featured Projects**
 
-🌱 I’ve built robust pipelines for both batch and stream processing using GCP, AWS, Snowflake, and more.
+### 💳 Financial Transaction Data Pipeline & Anomaly Detection  
+- Built a robust **real-time pipeline** using **Apache Spark**, **AWS Glue**, and **Kafka** to ingest and process financial transactions  
+- Integrated custom anomaly detection logic to flag fraud, **reducing detection time from 24 hours to under 30 minutes**  
+- Ensured compliance with **SOX** and **GDPR**, while delivering interactive dashboards in **Power BI**
 
-♦️ Skills 💻
+### ☁️ Modern Data Lake Migration & Report Optimization  
+- Migrated legacy **MySQL** and **Oracle** systems to an **AWS-based data lake** using **Glue**, **dbt**, and **Athena**  
+- Automated **hourly ETL refreshes** with **Apache Airflow** and **Looker dashboards**  
+- Achieved **50% reduction in report refresh times**, saving the business **$80K annually** through self-service analytics
 
-Programming: Python, PySpark, SQL
 
-Cloud:
+---
 
-AWS: S3, Lambda, Glue, Redshift, RDS, Athena
+📫 **Let's Connect**
 
-GCP: GCS, BigQuery, Dataflow
+- 📧 Email: [chandrikakaravadi@gmail.com](mailto:chandrikakaravadi@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandrikakaravadi)  
+- 🌐 [Portfolio](https://YOUR_GITHUB_USERNAME.github.io) *(if available)*
 
-Tools: VSCode, Tableau, Airflow
+---
 
-Concepts: Data Modelling, ETL, Data Orchestration, System Design
+🧠 **Currently Learning**
 
-♦️ Connect with Me 🔗
+- Real-time stream processing with **Spark Structured Streaming**  
+- **Data quality automation** using **Great Expectations**  
 
-📧 Email:sarathk8901@gmail.com
+---
 
-🌐 Portfolio: https://sarathk1497.github.io/sarathchandrikak.github.io/
+💬 “Data is not just information – it’s your competitive advantage. I engineer that edge.”
 
-🔗 LinkedIn: https://www.linkedin.com/in/sarath-k14/
+---
+
