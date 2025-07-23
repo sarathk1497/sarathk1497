@@ -22,19 +22,19 @@ I specialize in transforming raw data into powerful insights through **streaming
 ---
 ## 🎯 Core Expertise
 
-### 🚀 Programming & Design
-* 🐍 Python • ⚡ PySpark • 🧠 SQL • 🧱 OOP Principles • 🏗️ System Design&#x20;
+### 🚀 Programming & Design  
+- 🐍 Python • ⚡ PySpark • 🧠 SQL • 🧱 OOP Principles • 🏗️ System Design 
 
-### 💡 Data Engineering & Pipelines
-* 🗂️ Data Modeling • 🔄 ETL • ⏱️ Batch & 🔃 Real-Time Streaming
-* 📬 Apache Kafka • 🛠️ Workflow Orchestration using Airflow
+### 💡 Data Engineering & Pipelines  
+- 🗂️ Data Modeling • 🔄 ETL • ⏱️ Batch & 🔃 Real-Time Streaming  
+- 📬 Apache Kafka • 🛠️ Workflow Orchestration using Airflow
 
-### ☁️ Cloud Services
-**🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 🧪 Glue 
-**🌐 Google Cloud Platform (GCP):** 🪣 GCS • 📊 BigQuery • 🔁 Dataflow • 📈 Looker Studio
+### ☁️ Cloud Services  
+**🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 📣 SNS • 🧪 Glue • 🏢 Redshift 
+**🌐 Google Cloud Platform (GCP):** 🪣 GCS • 📊 BigQuery • 🔁 Dataflow
 
-### 🧰 Tools & IDEs
-* 🧑‍💻 Git  • 💻 VS Code&#x20;
+### 🧰 Tools & IDEs  
+- 🧑‍💻 Git • 💻 VS Code 
 
 
 ---
