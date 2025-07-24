@@ -20,21 +20,42 @@ I specialize in transforming raw data into powerful insights through **streaming
 - Develop insightful dashboards using **Power BI, Looker Studio**, and enable **self-service analytics**
 
 ---
-## 🎯 Core Expertise
+## 🚀 Programming & Design
 
-#### 🚀 Programming & Design
-- 🐍 Python • ⚡ PySpark • 🧠 SQL • 🧱 OOP Principles • 🏗️ System Design
+![Python](https://img.icons8.com/color/24/python.png) **Python**  
+![Apache Spark](https://img.icons8.com/color/24/apache-spark.png) **PySpark**  
+![SQL](https://img.icons8.com/ios-filled/24/sql.png) **SQL**  
+![OOP](https://img.icons8.com/ios/24/class.png) **Object-Oriented Programming (OOP)**  
+![System Design](https://img.icons8.com/ios-filled/24/flow-chart.png) **System Design**
 
-#### 💡 Data Engineering & Pipelines
-- 🗂️ Data Modeling • 🔄 ETL • ⏱️ Batch & 🔃 Real-Time Streaming
-- 📬 Apache Kafka • 🛠️ Workflow Orchestration using Airflow
+---
 
-#### ☁️ Cloud Services
-**🌐 Google Cloud Platform (GCP):** 🪣 GCS • 📊 BigQuery • 🔁 Dataflow   
-**🟧 Amazon Web Services (AWS):** 🧊 S3 • 🌀 Lambda • 📣 SNS • 🧪 Glue • 🏢 Redshift
+## 💡 Data Engineering & Pipelines
 
-#### 🧰 Tools & IDEs
-- 🧑‍💻 Git • 💻 VS Code 
+![Modeling](https://img.icons8.com/ios/24/data-configuration.png) **Data Modeling**  
+![ETL](https://img.icons8.com/ios/24/convert.png) **ETL**  
+![Batch/Stream](https://img.icons8.com/ios-filled/24/synchronize.png) **Batch & Real-Time Streaming**  
+![Kafka](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-apache-kafka-a-distributed-event-streaming-platform-logo-shadow-tal-revivo.png) **Apache Kafka**  
+![Airflow](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/24px-AirflowLogo.png) **Apache Airflow**
+
+---
+
+## ☁️ Cloud Platforms
+
+### 🌐 Google Cloud Platform (GCP)
+
+![GCP](https://img.icons8.com/color/24/google-cloud-platform.png) **GCS** • **BigQuery** • **Dataflow**
+
+### 🟧 Amazon Web Services (AWS)
+
+![AWS](https://img.icons8.com/color/24/amazon-web-services.png) **S3** • **Lambda** • **SNS** • **Glue** • **Redshift**
+
+---
+
+## 🧰 Tools & IDEs
+
+![Git](https://img.icons8.com/color/24/git.png) **Git**  
+![VS Code](https://img.icons8.com/color/24/visual-studio-code-2019.png) **Visual Studio Code**
 
 ---
 
