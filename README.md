@@ -27,14 +27,14 @@ I specialize in transforming raw data into powerful insights through **streaming
 ![PySpark](https://img.icons8.com/color/20/apache-spark.png) PySpark • 
 ![SQL](https://img.icons8.com/ios-filled/20/sql.png) SQL • 
 ![OOP](https://img.icons8.com/ios/20/class.png) OOP • 
-![Design](https://img.icons8.com/ios-filled/20/flow-chart.png) System Design
+![System Design](https://img.icons8.com/ios-filled/20/flow-chart.png) System Design
 
 **Data Engineering:**  
-![Modeling](https://img.icons8.com/ios/20/data-configuration.png) Data Modeling • 
-![ETL](https://img.icons8.com/ios/20/convert.png) ETL • 
+![Data Modeling](https://img.icons8.com/ios/20/data-configuration.png) Data Modeling • 
+![ETL](https://img.icons8.com/ios-filled/20/data-in-both-directions.png) ETL • 
 ![Streaming](https://img.icons8.com/ios-filled/20/synchronize.png) Batch & Real-Time Streaming • 
-![Kafka](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/20/external-apache-kafka-a-distributed-event-streaming-platform-logo-shadow-tal-revivo.png) Kafka • 
-![Airflow](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/20px-AirflowLogo.png) Airflow
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="20"/> Kafka • 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/20px-AirflowLogo.png" width="20"/> Airflow
 
 **Cloud Platforms:**  
 ![GCP](https://img.icons8.com/color/20/google-cloud-platform.png) Google Cloud (GCS • BigQuery • Dataflow)  
@@ -43,7 +43,6 @@ I specialize in transforming raw data into powerful insights through **streaming
 **Tools & IDEs:**  
 ![Git](https://img.icons8.com/color/20/git.png) Git • 
 ![VS Code](https://img.icons8.com/color/20/visual-studio-code-2019.png) VS Code
-
 
 ---
 
