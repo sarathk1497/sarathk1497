@@ -20,7 +20,7 @@ I specialize in transforming raw data into powerful insights through **streaming
 - Develop insightful dashboards using **Power BI, Looker Studio**, and enable **self-service analytics**
 
 ---
-## 💼 Tech Stack
+### 💼 Tech Stack
 
 **Languages & Design:**  
 ![Python](https://img.icons8.com/color/20/python.png) Python • 
