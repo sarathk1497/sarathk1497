@@ -63,8 +63,8 @@ I specialize in transforming raw data into powerful insights through **streaming
 
 📫 **Let's Connect**
 
-- 📧 Email: [sarathk8901@gmail.com](mailto:sarathk8901@gmail.com)  
-- 🔗 [LinkedIn](www.linkedin.com/in/sarath-k14) 
+- 📧 Email: [sarathk9087@gmail.com](mailto:sarathk8901@gmail.com)  
+- 🔗 [LinkedIn](www.linkedin.com/in/sarath-chandrika-k-4b794a384) 
 - 🌐 [Portfolio](https://sarathk1497.github.io/sarathchandrikak.github.io/)
 - 💻 [LeetCode](https://leetcode.com/u/Sarath_97/)  
 
